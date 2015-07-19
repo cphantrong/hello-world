@@ -1,2 +1,3 @@
 # hello-world
-My first Git Hub repo
+This is the READM pour the tutorial.
+It also is my first Git Hub repo
